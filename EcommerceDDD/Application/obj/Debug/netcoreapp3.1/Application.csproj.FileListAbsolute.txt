@@ -7,3 +7,8 @@ D:\Ecommerce\EcommerceDDD\Application\obj\Debug\netcoreapp3.1\Application.Assemb
 D:\Ecommerce\EcommerceDDD\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
 D:\Ecommerce\EcommerceDDD\Application\obj\Debug\netcoreapp3.1\Application.dll
 D:\Ecommerce\EcommerceDDD\Application\obj\Debug\netcoreapp3.1\Application.pdb
+D:\Ecommerce\EcommerceDDD\Application\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Ecommerce\EcommerceDDD\Application\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Ecommerce\EcommerceDDD\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Ecommerce\EcommerceDDD\Application\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Ecommerce\EcommerceDDD\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
